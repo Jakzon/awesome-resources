@@ -85,6 +85,7 @@ There is tag for every link it is either Free, Paid or Mixed. <br>
 ####Learn to program with robots
 
 + <a href="http://sparkfun.codepops.com/#0/" target="_blank"> Sparkfun </a> Arduino Unplugged -- Hour of Code with Sparkfun's Digital Sandbox.  :free:
++ <a href="https://DIYhacking.com" target="_blank"> DIY Hacking </a> Arduino Projects -- Learn how to program Arduinos through projects.  :free:
 + <a href="https://tickleapp.com/en-us/" target="_blank"> Tickle </a> Learn to program Arduino, drones, robots, connected toys, and smart home devices, all wirelessly. Tickle is easy to learn, fun to use, and 1000x more powerful!  :arrows_counterclockwise:
 + <a href="http://www.lego.com/en-us/mindstorms/" target="_blank"> Lego Mindstorms </a> The Lego Mindstorms series of kits contain software and hardware to create customizable, programmable robots. They include an intelligent brick computer that controls the system, a set of modular sensors and motors, and Lego parts from the Technic line to create the mechanical systems. :arrows_counterclockwise:
 + <a href="http://kinderlabrobotics.com/" target="_blank"> KinderLab </a> Children build their own robot with KIBO, program it to do what they want, and decorate it - all without a PC, tablet, or smartphone.  :arrows_counterclockwise:
